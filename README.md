@@ -1,11 +1,11 @@
 test-images
 ===========
 
-![js][images/js.jpg]
+![js][/images/js.jpg]
 
-![js][images/js]
+![js][/images/js]
 
-![][images/js.jpg]
+![][/images/js.jpg]
 
-![][images/js]
+![][/images/js]
 
